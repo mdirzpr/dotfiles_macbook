@@ -1,0 +1,1 @@
+/Users/mdi/.config/nvim/init.vim
