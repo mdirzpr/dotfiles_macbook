@@ -11,16 +11,14 @@ export PS1;
 
 ### Aliases ###
 
-# directory 
 alias cdd='cd ~/Desktop'
 alias cdh='cd ~'
-
+alias cdp='cd ~/Projects/Python'
+alias vemain='source ./mainvenv/bin/activate'
+alias veidle='python -m idlelib.idle'
 
 alias lsa='ls -la'
 
-
-# Applications
-alias matlab='exec /Applications/Polyspace/R2019a/bin/matlab' 
 alias a2c='aria2c -c -x 16 -s 16 -k 1M -d ~/Downloads'
 
 # broot
